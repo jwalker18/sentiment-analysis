@@ -19,7 +19,8 @@ It took 489.21 seconds to analyze 5310 comments in 87 posts in 4 subreddits.
 
 Posts analyzed saved in titles
 
-10 most mentioned picks:\ 
+10 most mentioned picks:
+
 SDC: 98\
 LCID: 50\
 AAPL: 14\
@@ -29,14 +30,14 @@ TMC: 10\
 AMZN: 10\
 NVDA: 9\
 AMD: 9\
-HOOD: 8\
+HOOD: 8
 
 Sentiment analysis of top 5 picks:\
-     &nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;Bearish &nbsp;Neutral &nbsp;Bullish &nbsp;Total/Compound
-SDC    &nbsp; 0.084   &nbsp;&nbsp; 0.758   &nbsp;&nbsp;&nbsp; 0.158          0.082\
-LCID   &nbsp; 0.120   &nbsp;&nbsp; 0.736   &nbsp;&nbsp;&nbsp; 0.145          0.048\
-AAPL   &nbsp; 0.067   &nbsp;&nbsp; 0.825   &nbsp;&nbsp;&nbsp; 0.108          0.150\
-GOEV   &nbsp; 0.073   &nbsp;&nbsp; 0.825   &nbsp;&nbsp;&nbsp; 0.102         -0.004\
-SOFI   &nbsp; 0.000   &nbsp;&nbsp; 0.858   &nbsp;&nbsp;&nbsp; 0.142          0.307\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bearish &nbsp;Neutral &nbsp;Bullish &nbsp;Total/Compound\
+SDC    &nbsp; 0.084   &nbsp;&nbsp; 0.758   &nbsp;&nbsp;&nbsp; 0.158  &nbsp;&nbsp;&nbsp;      0.082\
+LCID   &nbsp; 0.120   &nbsp;&nbsp; 0.736   &nbsp;&nbsp;&nbsp; 0.145  &nbsp;&nbsp;&nbsp;      0.048\
+AAPL   &nbsp; 0.067   &nbsp;&nbsp; 0.825   &nbsp;&nbsp;&nbsp; 0.108  &nbsp;&nbsp;&nbsp;     0.150\
+GOEV   &nbsp; 0.073   &nbsp;&nbsp; 0.825   &nbsp;&nbsp;&nbsp; 0.102  &nbsp;&nbsp;&nbsp;    -0.004\
+SOFI   &nbsp; 0.000   &nbsp;&nbsp; 0.858   &nbsp;&nbsp;&nbsp; 0.142  &nbsp;&nbsp;&nbsp;      0.307\
 ![](mentions.png)
 ![](sentiment.png)
